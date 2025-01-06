@@ -1,6 +1,6 @@
 # Bike Store Data Warehouse
 
-## 1. Lý do chọn đề tài
+## 1. Tổng quan dự án
 Dự án xây dựng kho dữ liệu cho cửa hàng bán xe đạp nhằm:
 - Quản lý thông tin sản phẩm, khách hàng, doanh số.
 - Hỗ trợ phân tích dữ liệu, xác định xu hướng, dự đoán nhu cầu và tối ưu chiến lược kinh doanh.
